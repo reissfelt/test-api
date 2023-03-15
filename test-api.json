@@ -1,7 +1,5 @@
-[
-  {
-    "_id": "dummy",
-    "index": 0,
-    "password": "password"
-  }
-]
+{
+  "_id": "dummy",
+  "index": 0,
+  "password": "password"
+}
